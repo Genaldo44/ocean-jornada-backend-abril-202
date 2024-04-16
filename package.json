@@ -1,0 +1,12 @@
+{
+  "name": "ocean-jornada-backend-abril-202",
+  "version": "1.0.0",
+  "description": "Projeto da Jornada Backend  Abr24- Ocean Sansung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
